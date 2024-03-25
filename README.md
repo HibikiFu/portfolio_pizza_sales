@@ -39,8 +39,8 @@ This data analysis project intends to provide insights into the sales perfomance
 
 # My Data Process
 1. Data cleaning: I used power query to cleaning data and transforming the data to ensure the dataset's quality and suitability for analysis. This included replacing the abbreviations, extract the days from order_date.
-2. SQL queries: I used SQL Server Management Studio 19 to show all relevant information from the dataset. Here is full analysis
-3. Visualization: I utilized Power BI to create a report to visualize all relevant information from the dataset clearly. Please click here to see and download the full Power BI dashboard.
+2. SQL queries: I used SQL Server Management Studio 19 to show all relevant information from the dataset. Here is full [analysis](https://github.com/HibikiFu/portfolio_pizza_sales/blob/main/SQLQuery2.sql)
+3. Visualization: I utilized Power BI to create a report to visualize all relevant information from the dataset clearly. Please click [here](https://github.com/HibikiFu/portfolio_pizza_sales/blob/main/pizza_dashboard.pbix) to download the full Power BI dashboard.
 
 # Insights
 After conducting the analysis, i have gathered several valuable insights from the pizza sales data. Here are the results that i discovered:
