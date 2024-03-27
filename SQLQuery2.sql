@@ -100,6 +100,3 @@ sum(distinct(order_id)) as total_orders
 from pizza_sales
 group by pizza_name
 order by total_orders asc
-
-select datename(dw, order_date), sum(distinct(order_id)) from pizza_sales
-group by datename(dw, order_date)
