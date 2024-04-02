@@ -54,7 +54,7 @@ After conducting the analysis, i have gathered several valuable insights from th
 # Pizza Sales Dashboard
 
 ![pizza_sales_pic](https://github.com/HibikiFu/portfolio_pizza_sales/assets/164732424/90e3aa95-2666-4524-8c5d-255bc9d2de39)
-![pizza_sales_pic2](https://github.com/HibikiFu/portfolio_pizza_sales/assets/164732424/e0b18d79-9e73-4add-9cda-324dba6cb609)
+![pizza_sales_pic2](https://github.com/phminhanh/portfolio_pizza_sales/assets/164732424/3deb2223-4ebb-404f-889f-b8782bbf32ea)
 
 
 
