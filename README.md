@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 ### Project Overview
-This data analysis project intends to provide insights into the sales perfomance of a pizza restaurant. By analyzing various aspects of the sales data, i hope that we will find opportunities to drive more sales and work more efficiently.
+This data analysis project intends to provide insights into the sales performance of a pizza restaurant. By analyzing various aspects of the sales data, i hope that we will find opportunities to drive more sales and work more efficiently.
 
 # About Dataset
 1. Data source: Collected from Kaggle - the world's largest data science community. Link below: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/data
